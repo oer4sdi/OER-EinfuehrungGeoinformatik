@@ -1,4 +1,4 @@
-# OER zu Knowledge Graphen (in Arbeit!)          
+# OERs zur Einführung in die Geoinformatik (in Arbeit!)          
 
 Dieses Repository enthält alle Materialien, die zur Erstellung und Veröffentlichung von Open Educational Resources (OER) zum Thema Einführung in die Geoinformatik notwendig sind. Das OER-Modul bietet a) ... und b) ...
 
