@@ -1,6 +1,14 @@
 # OERs zur Einführung in die Geoinformatik (in Arbeit!)          
 
-Dieses Repository enthält alle Materialien, die zur Erstellung und Veröffentlichung von Open Educational Resources (OER) zum Thema Einführung in die Geoinformatik notwendig sind. Das OER-Modul bietet a) ... und b) ...
+Dieses Repository enthält alle Materialien, die zur Erstellung und Veröffentlichung von Open Educational Resources (OER) zum Thema Einführung in die Geoinformatik passen. 
+
+Folgende Lernmodule sind dem Übergeordneten Repositorium untergeordnet:
+
+1. Koordinatensysteme und Projektionen (LINK EINFÜGEN)
+2. 2
+3. d
+4. d
+5. d
 
 Die Module sind wie folgt aufgebaut:
 
