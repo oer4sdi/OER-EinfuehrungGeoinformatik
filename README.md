@@ -4,8 +4,8 @@ Dieses Repository enthält alle Materialien, die zur Erstellung und Veröffentli
 
 Folgende Lernmodule sind dem Übergeordneten Repositorium untergeordnet:
 
-1. Geographische Informationssysteme und gängige Datentypen und Formate
-2. Koordinatensysteme und Projektionen (LINK EINFÜGEN)
+1. Geographische Informationssysteme
+2. Koordinatensysteme und Projektionen
 3. Digitalisiern, selektieren und manipulieren
 4. Kartenlayouts und Kartographische Best practices
 5. Vektordatenanalyse 
