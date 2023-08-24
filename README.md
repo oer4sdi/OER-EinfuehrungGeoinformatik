@@ -6,8 +6,8 @@ Folgende Lernmodule sind dem Übergeordneten Repositorium untergeordnet:
 
 1. Geographische Informationssysteme
 2. Koordinatensysteme und Projektionen
-3. Digitalisiern, selektieren und manipulieren
-4. Kartenlayouts und Kartographische Best practices
+3. Digitalisieren, selektieren und manipulieren
+4. Kartenlayouts und kartographische Best Practices
 5. Vektordatenanalyse 
 6. Rasterdatenanalyse
 7. Bonus: Modelbuilder
