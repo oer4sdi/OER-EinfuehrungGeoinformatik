@@ -10,7 +10,6 @@ Folgende Lernmodule sind dem Übergeordneten Repositorium untergeordnet:
 4. Kartenlayouts und kartographische Best Practices
 5. Vektordatenanalyse 
 6. Rasterdatenanalyse
-7. Bonus: Modelbuilder
 
 Die Module sind wie folgt aufgebaut:
 
