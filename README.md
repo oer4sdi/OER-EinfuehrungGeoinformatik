@@ -14,12 +14,13 @@ Folgende Lernmodule sind dem Übergeordneten Repositorium untergeordnet:
 Die Module sind wie folgt aufgebaut:
 
 1. Überblick
-2. Thematischer Hintergrund 
-3. Übungen und Leitfäden
-4. Quiz
-5. Zusammenfassung 
+2. Kurze Einführung in das Thema
+3. Inhaltliche Vertiefung
+4. Übungen und Leitfäden
+5. Quiz
+6. Zusammenfassung 
 
-Die Tutorials sind hauptsächlich für Studenten gedacht, die jeweils etwa 30 Minuten damit verbringen wollen, ihr Wissen zu Einführungsthemen der Geoinformatik zu vertiefen.
+Die Lernmodule sind hauptsächlich für Studenten entwickelt, die jeweils etwa 30-60 Minuten damit verbringen wollen ihr Wissen zu Einführungsthemen der Geoinformatik zu vertiefen.
 
 ### Wie werden die OER-Module verwendet?
 
@@ -28,11 +29,11 @@ Die OERs sind als [H5P](https://h5p.org/)-Module implementiert, die heruntergela
 - H5P-Bearbeitungsumgebungen wie der [H5P Official Editor](https://h5p.org/) oder der leichtgewichtige [LUMI H5P Editor](https://lumi.education/)
 - Inhaltsverwaltungssysteme wie [Wordpress](https://wordpress.com/) mit installiertem "H5P"-Plugin
 
-Lade dir einfach nur die H5P-Dateien herunter und lade diese in eine der Umgebungen hoch, um sie von dort aus zu verwenden.
+Lade dir einfach nur die H5P-Dateien herunter und anschließend wieder in eine der genannten Umgebungen hoch, um sie von dort aus zu verwenden.
 
 ###Schneller Überblick über die Inhalte
 
-Wenn du dir zunächst einen schnellen Überblick über die konkreten Inhalte der H5P-Module verschaffen willst, findest du im [Storyboard](/StoryBoard_Deutsch.md) ein nach den H5P-Modulen strukturiertes Skript mit integrierten Illustrationen. 
+Wenn du dir zunächst einen schnellen Überblick über die konkreten Inhalte der H5P-Module verschaffen willst, findest du im [Storyboard](/StoryBoard.md) ein nach den H5P-Modulen strukturiertes Skript mit integrierten Illustrationen. 
 
 ### Copyright und Lizenzerklärung
 
