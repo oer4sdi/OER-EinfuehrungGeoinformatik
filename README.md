@@ -2,7 +2,7 @@
 
 Dieses Repository enthält alle Materialien, die zur Erstellung und Veröffentlichung von Open Educational Resources (OER) zum Thema Einführung in die Geoinformatik passen. 
 
-Folgende Lernmodule sind dem Übergeordneten Repositorium untergeordnet:
+Folgende Lernmodule sind dem Übergeordneten Repositorium untergeordnet: k
 
 1. Geographische Informationssysteme
 2. Koordinatensysteme und Projektionen
