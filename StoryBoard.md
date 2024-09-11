@@ -79,6 +79,8 @@ Im Bereich der Rasterdaten ist das **GeoTIFF**-Format ein offenes und weit verbr
 Zusammenfassend lässt sich sagen, dass die Wahl des geeigneten Dateiformats von den Anforderungen der GIS-Anwendung abhängt. Vektorformate wie Shapefile und GeoPackage eignen sich für die Verwaltung und Analyse von diskreten geografischen Objekten, während Rasterformate wie GeoTIFF und Imagine für kontinuierliche Daten wie Satellitenbilder oder Höhenmodelle verwendet werden. Geodatenbanken bieten eine flexible und leistungsfähige Möglichkeit zur Organisation großer Datenmengen in GIS.
 
 ## 3. Übungen und Leitfäden
+https://av.tib.eu/media/68260 	
+Dieses Video ist im Rahmen des Projektes OER4SDI gefördert von ORCA.NRW entstanden und beschäftigt sich damit: - die Benutzeroberfläche von ArcGIS kennenzulernen - Kartenlayeransichten anzupassen - Lokale Geodaten zu importieren - Sachdaten abzurufen - Thematik zu erzeugen - PDF-Karten zu exportieren
 
 **Zusammenfassung des Inhaltes**
 Wir werden uns mit dem Umgang der wichtigsten Funktionen der Benutzeroberfläche von ArcGIS Pro beschäftigen. Im Zuge dessen lernt ihr die Kartenansichten und -layer anzupassen. Außerdem werden wir bereits eine eigene kleine Karte über die Schulstandorte in Bochum erstellen, ausgestalten und exportieren.
@@ -274,7 +276,25 @@ Die Vektordatenanalyse stößt jedoch auch auf Herausforderungen, wie unvollstä
 Letztlich bietet die Vektordatenanalyse durch den Einsatz spezialisierter Algorithmen wie dem Ray-Casting- oder dem Dijkstra-Algorithmus die Möglichkeit, räumliche Beziehungen zu untersuchen und komplexe geografische Probleme zu lösen.
 
 ### 2.2 Inhaltliche Vertiefung
-Geo
+Die in den Screenshots dargestellten Werkzeuge für die räumliche Analyse spielen eine zentrale Rolle in der Geodatenverarbeitung und -analyse. 
+
+Das Werkzeug **"Zusammenführen" (Merge)** ermöglicht es, Features innerhalb einer Ebene zu einem einzigen Feature zu kombinieren, sofern sie identische Attributinformationen aufweisen. Bei unterschiedlichen Attributwerten wird lediglich das erste gefundene Attribut übernommen, während die restlichen Informationen verloren gehen. Dieses Werkzeug ist besonders nützlich, wenn sich Polygone unbeabsichtigt überlappen, da sie auf diese Weise zu einer einzigen Einheit zusammengeführt werden können.
+
+**"Auflösen" (Dissolve)** dient dazu, benachbarte Polygonmerkmale in einem einzigen Datensatz zu kombinieren, basierend auf einem vorgegebenen Attribut. Zum Beispiel können in einem Datensatz, der mehrere Flurstücke enthält, die den gleichen Eigentümern gehören, diese automatisch zu größeren Flächen zusammengeführt werden, sofern sie identische Attributwerte besitzen.
+
+Das Werkzeug **"Vereinigung" (Union)** berechnet die geometrische Vereinigung der Eingabefeatures. Alle Features und deren Attribute werden in die Ausgabe-Feature-Klasse übernommen. Es ist wichtig, dass alle Eingabefeatures Polygone sind, damit die Union korrekt funktioniert.
+
+Mit dem **"Puffer" (Buffer)**-Werkzeug können Pufferpolygone um Eingabefeatures in einem festgelegten Abstand erstellt werden. Diese Abstände können entweder euklidisch in einer zweidimensionalen Ebene oder geodätisch auf einer gekrümmten Oberfläche der Erde berechnet werden. Es gibt verschiedene Optionen zur Bestimmung der Form des Puffers, wie beispielsweise rund oder flach. Zudem können sich überlappende Puffer zu einem einzigen Feature zusammengeführt werden.
+
+Das **"Ausschneiden" (Clip)**-Werkzeug schneidet räumliche Daten basierend auf einer definierten räumlichen Grenze oder einem Polygon-Ausschnitt zu. Es behält nur die Features bei, die innerhalb des Clip-Polygons liegen, während alles außerhalb der Grenze entfernt wird. Dieses Werkzeug wird oft verwendet, um Daten auf ein spezifisches Interessensgebiet zu beschränken oder sicherzustellen, dass nur relevante Daten für eine Analyse verwendet werden.
+
+In der **geometrischen Analyse** werden verschiedene Ansätze verwendet, wie die Berechnung von Distanzen, der nächste Nachbar oder das Erstellen von Puffern. Zusätzlich ermöglicht die Overlay-Analyse, Schnitte, Vereinigungen, Differenzen zu berechnen und neue Geometrien zu erzeugen. Eine Netzwerkanalyse berechnet beispielsweise Routen, optimiert Standorte oder untersucht Verkehrsflüsse.
+
+In der **Netzwerkanalyse** werden die topologischen Strukturen von Netzwerken analysiert. Diese Analysen nutzen komplexe Algorithmen, um Distanzen, Geschwindigkeiten und Verkehrsinformationen einzubeziehen. Typische Aufgaben umfassen die Routenplanung, die Erreichbarkeit von Standorten, die Untersuchung von Verkehrsflüssen sowie die Optimierung neuer Einrichtungen. Eine genaue Simulation von Netzwerkbedingungen und Notfallszenarien gehört ebenfalls zu den Anwendungsbereichen dieses Werkzeugs.
+
+Schließlich bietet die **räumliche Analyse** Unterstützung für Entscheidungsprozesse durch die Untersuchung der Position, Ausdehnung, Verteilungsmuster und Veränderungen von Phänomenen in einer bestimmten Region. Dies umfasst Fragen wie: „Wo tritt ein Phänomen auf?“ oder „Gibt es Regelmäßigkeiten in der Verteilung eines Phänomens?“. Ein Beispiel könnte sein, die Verteilung von Krankenhäusern entlang stark besiedelter Flächen zu analysieren und deren Entwicklung im Laufe der Zeit zu verfolgen.
+
+Diese Werkzeuge bieten eine umfassende Basis für die Bearbeitung, Analyse und Visualisierung von Geodaten und sind für eine Vielzahl von räumlichen Analysen essenziell.
 
 ## 3. Übungen und Leitfäden
 
