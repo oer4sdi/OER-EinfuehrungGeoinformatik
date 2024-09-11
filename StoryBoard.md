@@ -79,11 +79,9 @@ Im Bereich der Rasterdaten ist das **GeoTIFF**-Format ein offenes und weit verbr
 Zusammenfassend lässt sich sagen, dass die Wahl des geeigneten Dateiformats von den Anforderungen der GIS-Anwendung abhängt. Vektorformate wie Shapefile und GeoPackage eignen sich für die Verwaltung und Analyse von diskreten geografischen Objekten, während Rasterformate wie GeoTIFF und Imagine für kontinuierliche Daten wie Satellitenbilder oder Höhenmodelle verwendet werden. Geodatenbanken bieten eine flexible und leistungsfähige Möglichkeit zur Organisation großer Datenmengen in GIS.
 
 ## 3. Übungen und Leitfäden
+
 https://av.tib.eu/media/68260 	
 Dieses Video ist im Rahmen des Projektes OER4SDI gefördert von ORCA.NRW entstanden und beschäftigt sich damit: - die Benutzeroberfläche von ArcGIS kennenzulernen - Kartenlayeransichten anzupassen - Lokale Geodaten zu importieren - Sachdaten abzurufen - Thematik zu erzeugen - PDF-Karten zu exportieren
-
-**Zusammenfassung des Inhaltes**
-Wir werden uns mit dem Umgang der wichtigsten Funktionen der Benutzeroberfläche von ArcGIS Pro beschäftigen. Im Zuge dessen lernt ihr die Kartenansichten und -layer anzupassen. Außerdem werden wir bereits eine eigene kleine Karte über die Schulstandorte in Bochum erstellen, ausgestalten und exportieren.
 
 # Modul 2 - KoordiantensystemeUndProjektionen
          	           	
@@ -125,6 +123,15 @@ Insgesamt ist die Wahl der Projektion entscheidend, um geografische Informatione
 
 ## 3. Übungen und Leitfäden
 
+https://av.tib.eu/media/68264	
+Dieses Video ist im Rahmen des Projektes OER4SDI gefördert von ORCA.NRW entstanden und beschäftigt sich damit: - Räumliche Auswahl durchzuführen und ihre Auswirkungen zu verstehen - Gitter über Karten zu erzeugen - Entfernungsmessungen zwischen zwei Punkten durchzuführen
+
+https://av.tib.eu/media/68265
+Dieses Video ist im Rahmen des Projektes OER4SDI gefördert von ORCA.NRW entstanden und beschäftigt sich damit: - Layerprojektion zu identifizieren - Kartenprojektion zu identifizieren - Projizieren von Vektor- und Rasterebene - Definieren des Koordinatensystems für eine Datei
+
+https://av.tib.eu/media/68266
+Dieses Video ist im Rahmen des Projektes OER4SDI gefördert von ORCA.NRW entstanden und beschäftigt sich damit: - Das Grundverständnis für Transformation zu erweitern - Punkt-zu-Punkt-Georeferenzierung durchzuführen
+
 # Modul 3 - DigitalisierenSelektierenManipulieren
          	           	
 ## 1. Überblick
@@ -162,10 +169,8 @@ Diese Werkzeuge und Methoden sind essenziell, um geografische Daten in einem GIS
 
 ## 3. Übungen und Leitfäden
 
-**Zusammenfassung des Inhaltes**
-Wir werden uns mit dem Umgang der wichtigsten Funktionen der Benutzeroberfläche von ArcGIS Pro beschäftigen. Im Zuge dessen lernt ihr die Kartenansichten und -layer anzupassen. Außerdem werden wir bereits eine eigene kleine Karte über die Schulstandorte in Bochum erstellen, ausgestalten und exportieren.
-
-## 3. Übungen und Leitfäden
+https://av.tib.eu/media/68267	
+Dieses Video ist im Rahmen des Projektes OER4SDI gefördert von ORCA.NRW entstanden und beschäftigt sich damit du wie man Daten in einem Geographischen Informationssysteme (GIS) digitalisieren, selektieren und manipulieren kann
 
 # Modul 4 - Kartenlayouts
          	           	
@@ -243,8 +248,12 @@ Für eine gute Strukturierung einer Karte ist es wichtig, eine visuelle Hierarch
 
 ## 3. Übungen und Leitfäden
 
-**Zusammenfassung des Inhaltes**
-Wir werden uns mit dem Umgang der wichtigsten Funktionen der Benutzeroberfläche von ArcGIS Pro beschäftigen. Im Zuge dessen lernt ihr die Kartenansichten und -layer anzupassen. Außerdem werden wir bereits eine eigene kleine Karte über die Schulstandorte in Bochum erstellen, ausgestalten und exportieren.
+https://av.tib.eu/media/68589
+Dieses Video ist im Rahmen des Projektes OER4SDI gefördert von ORCA.NRW entstanden und beschäftigt sich damit: - Vektorlayer zu gestalten - Histogramme zu verstehen und sinnvolle Klasseneinteilungen vorzunehmen - Rasterlayer zu gestalten: Einzelwerte und fließende Übergange darzustellen
+
+https://av.tib.eu/media/68268
+Dieses Video ist im Rahmen des Projektes OER4SDI gefördert von ORCA.NRW entstanden und beschäftigt sich damit: - Beschriftungen zu erstellen und zu verändern - Ein ansprechendes Kartenlayout zu erstellen - Ein Kartenlayout in verschiedenen Formaten zur Weiternutzung zu exportieren
+
 
 ## 3. Übungen und Leitfäden
 
@@ -298,8 +307,8 @@ Diese Werkzeuge bieten eine umfassende Basis für die Bearbeitung, Analyse und V
 
 ## 3. Übungen und Leitfäden
 
-**Zusammenfassung des Inhaltes**
-Wir werden uns mit dem Umgang der wichtigsten Funktionen der Benutzeroberfläche von ArcGIS Pro beschäftigen. Im Zuge dessen lernt ihr die Kartenansichten und -layer anzupassen. Außerdem werden wir bereits eine eigene kleine Karte über die Schulstandorte in Bochum erstellen, ausgestalten und exportieren.
+https://av.tib.eu/media/68626
+Dieses Video ist im Rahmen des Projektes OER4SDI gefördert von ORCA.NRW entstanden und beschäftigt sich damit eine umfassende Standortanalyse in ArcGIS Pro durchzuführen. Dabei werden verschiedene Werkzeuge der Vektordatenanalyse angewendet, um die Wohnqualität in einem Gebiet zu bewerten. Die Analyse umfasst die Bewertung der Lärmbelastung durch Autobahnen, die Nähe zu Naturschutzgebieten und die Größe der Gebäude.
 
 ## 3. Übungen und Leitfäden
 
@@ -367,8 +376,11 @@ Zusammenfassend lässt sich sagen, dass Map Algebra und die zugehörigen Operati
 
 ## 3. Übungen und Leitfäden
 
-**Zusammenfassung des Inhaltes**
-Wir werden uns mit dem Umgang der wichtigsten Funktionen der Benutzeroberfläche von ArcGIS Pro beschäftigen. Im Zuge dessen lernt ihr die Kartenansichten und -layer anzupassen. Außerdem werden wir bereits eine eigene kleine Karte über die Schulstandorte in Bochum erstellen, ausgestalten und exportieren.
+https://av.tib.eu/media/68627
+Dieses Video ist im Rahmen des Projektes OER4SDI gefördert von ORCA.NRW entstanden und beschäftigt sich mit: - dem erkunden und Interpretieren von SAR-Satellitenbildern - dem ändern der Symbolisierung von Bilddaten - dem hervorheben interessanter Features - dem anwenden von Werkzeugen zur Rasterdatenanalyse - dem erstellen von Farbkompositionsbildern
+
+https://av.tib.eu/media/68628
+Dieses Video ist im Rahmen des Projektes OER4SDI gefördert von ORCA.NRW entstanden und beschäftigt sich mit: - dem erstellen und interpretieren eines digitalen Geländemodells (DGM) - dem anwenden von Werkzeugen zur Rasterdatenanalyse - dem erzeugen von 3D-Ansichten und bearbeiten von Rasterdaten - dem durchführen von Map Algebra zur Analyse spezifischer Bedingungen
 
 # Dein Feedback ist willkommen!
 
