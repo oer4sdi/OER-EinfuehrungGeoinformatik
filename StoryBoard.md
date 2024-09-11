@@ -310,8 +310,6 @@ Diese Werkzeuge bieten eine umfassende Basis für die Bearbeitung, Analyse und V
 https://av.tib.eu/media/68626
 Dieses Video ist im Rahmen des Projektes OER4SDI gefördert von ORCA.NRW entstanden und beschäftigt sich damit eine umfassende Standortanalyse in ArcGIS Pro durchzuführen. Dabei werden verschiedene Werkzeuge der Vektordatenanalyse angewendet, um die Wohnqualität in einem Gebiet zu bewerten. Die Analyse umfasst die Bewertung der Lärmbelastung durch Autobahnen, die Nähe zu Naturschutzgebieten und die Größe der Gebäude.
 
-## 3. Übungen und Leitfäden
-
 # Modul 6 - Rasterdatenanalyse
          	           	
 ## 1. Überblick
