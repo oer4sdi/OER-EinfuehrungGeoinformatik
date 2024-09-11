@@ -56,6 +56,6 @@ SOFTWARE.
 
 ### Autoren und Finanzierung
 
-Diese OER-Module wurden am Institut für Geodäsie der Fachhochschule Bochum in enger Zusammenarbeit mit der Universität Münster und der Hochschule Bochum entwickelt. Hauptautor ist Fabian Przybylak unter der Leitung von Prof. Dr. Carsten Keßler und in Zusammenarbeit mit Lucas Rudnik.
+Diese OER-Module wurden am Institut für Geodäsie der Fachhochschule Bochum in enger Zusammenarbeit mit der Universität Münster und der Hochschule Bochum entwickelt. Hauptautoren sind Fabian Przybylak, Lena Pfeil und Jonas Haine unter der Leitung von Prof. Dr. Carsten Keßler.
 
 Das Projekt OER4SDI wurde von der Digitalen Hochschule NRW empfohlen und wird durch das Ministerium für Kultur und Wissenschaft NRW gefördert.
