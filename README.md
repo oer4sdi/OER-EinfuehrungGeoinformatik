@@ -1,4 +1,4 @@
-# OERs zur Einführung in die Geoinformatik (in Arbeit!)          
+# OERs zur Einführung in die Geoinformatik       
 
 Dieses Repository enthält alle Materialien, die zur Erstellung und Veröffentlichung von Open Educational Resources (OER) zum Thema Einführung in die Geoinformatik passen. 
 
