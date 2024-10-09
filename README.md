@@ -1,4 +1,4 @@
-# OERs zur Einführung in die Geoinformatik (in Arbeit!)          
+# OERs zur Einführung in die Geoinformatik         
 
 Dieses Repository enthält alle Materialien, die zur Erstellung und Veröffentlichung von Open Educational Resources (OER) zum Thema Einführung in die Geoinformatik passen. 
 
@@ -37,25 +37,15 @@ Wenn du dir zunächst einen schnellen Überblick über die konkreten Inhalte der
 
 ### Copyright und Lizenzerklärung
 
-Copyright (c) 2022 [...](...)
+Sie dürfen den Inhalt des Tutorials unter den Bedingungen der [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.de) Lizenz frei verwenden, verändern und weitergeben, sofern nicht ausdrücklich etwas anderes für bestimmte Teile des Inhalts angegeben ist. Alle verwendeten Logos sind generell ausgenommen. 
 
-a) Es steht dir frei, die Tutorials (H5P-Inhalte) unter den Bedingungen der [CC-BY-SA 4.0 Lizenz](https://creativecommons.org/licenses/by-sa/4.0/legalcode) zu verwenden, zu verändern und zu vervielfältigen. 
+Jeglicher Code, der mit dem Tutorial zur Verfügung gestellt wird, kann unter den Bedingungen der MIT-Lizenz verwendet werden. Bitte lesen Sie die vollständigen Lizenzbedingungen: https://github.com/oer4sdi/OER-DCAT/blob/main/LICENSE.md.
 
-b) Jeglicher Quellcode, der in den OER-Modulen enthalten ist oder mitgeliefert wird, kann unter den Bedingungen der MIT-Lizenz verwendet werden:
+Das Tutorial kann wie folgt referenziert werden: „OER-EinfuehrungGeoinformatik“, OER4SDI Projekt / Hochschule Bochum,[ CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/legalcode.en).
 
-Hiermit wird jeder Person, die eine Kopie dieser Software und der zugehörigen Dokumentationsdateien (die "Software") erwirbt, kostenlos die Erlaubnis erteilt, uneingeschränkt mit der Software zu handeln, einschließlich und ohne Einschränkung der Rechte, Kopien der Software zu verwenden, zu kopieren, zu modifizieren, zusammenzuführen, zu veröffentlichen, zu vertreiben, unterzulizenzieren und/oder zu verkaufen
-Kopien der Software zu verwenden, zu modifizieren, zusammenzuführen, zu veröffentlichen, zu vertreiben, zu unterlizenzieren und/oder zu verkaufen, und Personen, denen die Software zur Verfügung gestellt wird, zu gestatten, dies zu tun, vorbehaltlich der folgenden Bedingungen:
-
-* Der obige Copyright-Hinweis und dieser Genehmigungshinweis müssen in allen Kopien oder wesentlichen Teilen der Software enthalten sein.
-Kopien oder wesentlichen Teilen der Software enthalten sein.
-
-* DIE SOFTWARE WIRD OHNE MÄNGELGEWÄHR BEREITGESTELLT, OHNE JEGLICHE AUSDRÜCKLICHE ODER STILLSCHWEIGENDE GARANTIE, EINSCHLIESSLICH, ABER NICHT BESCHRÄNKT AUF DIE GARANTIE DER MARKTGÄNGIGKEIT,
-EIGNUNG FÜR EINEN BESTIMMTEN ZWECK UND NICHTVERLETZUNG VON RECHTEN DRITTER. IN KEINEM FALL SIND DIE AUTOREN ODER URHEBERRECHTSINHABER HAFTBAR FÜR JEGLICHE ANSPRÜCHE, SCHÄDEN ODER ANDERE
-SCHÄDEN ODER SONSTIGE HAFTUNG, OB AUS VERTRAG, UNERLAUBTER HANDLUNG ODER ANDERWEITIG, DIE SICH AUS DER SOFTWARE ODER DER NUTZUNG DER SOFTWARE ODER DEM SONSTIGEN UMGANG MIT DER
-SOFTWARE. 
 
 ### Autoren und Finanzierung
 
-Diese OER-Module wurden am Institut für Geodäsie der Fachhochschule Bochum in enger Zusammenarbeit mit der Universität Münster und der Hochschule Bochum entwickelt. Hauptautoren sind Fabian Przybylak, Lena Pfeil und Jonas Haine unter der Leitung von Prof. Dr. Carsten Keßler.
+Diese OER-Module wurden im Kontext des Projektes OER4SDI am Institut für Geodäsie der Hochschule Bochum in enger Zusammenarbeit mit der Westfälischen Universität Münster und der Ruhr Universität Bochum entwickelt. Hauptautoren sind Fabian Przybylak, Lena Pfeil und Jonas Haine unter der Leitung von Prof. Dr. Carsten Keßler.
 
 Das Projekt OER4SDI wurde von der Digitalen Hochschule NRW empfohlen und wird durch das Ministerium für Kultur und Wissenschaft NRW gefördert.
